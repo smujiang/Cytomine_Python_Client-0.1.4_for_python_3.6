@@ -1,0 +1,20 @@
+Metadata-Version: 1.0
+Name: Cytomine Python Client
+Version: 0.1.4
+Summary: Cytomine Python Client.
+Home-page: http://www.cytomine.be
+Author: Benjamin Stévens
+Author-email: b.stevens@ulg.ac.be
+License: LICENSE
+Description: =======
+        COMPILE
+        =======
+        
+        python setup.py build
+        
+        =======
+        INSTALL
+        =======
+        
+        python setup.py install
+Platform: UNKNOWN
